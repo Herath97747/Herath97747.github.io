@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.6dac612f.css",
-    "main.js": "/static/js/main.f6936f95.js",
+    "main.js": "/static/js/main.7d60854d.js",
     "static/media/Ecommerce.JPG": "/static/media/Ecommerce.c37b162bdc15432c8068.JPG",
     "static/media/contact.png": "/static/media/contact.5091302a70b6c74b64c1.png",
-    "static/media/covid19.jpeg": "/static/media/covid19.12a9b0cbadd586131317.jpeg",
     "static/media/cssPortfolio.JPG": "/static/media/cssPortfolio.60da44f65b15d4acd6c2.JPG",
     "static/media/shoes.JPG": "/static/media/shoes.088484ca3d7f12c1a779.JPG",
+    "static/media/mobile.jpg": "/static/media/mobile.16c36fea7456e36e13cd.jpg",
     "static/media/reactPort.JPG": "/static/media/reactPort.1e89b8991a55dda28e18.JPG",
     "static/media/photo.JPG": "/static/media/photo.5cdc98ce238b0dadc990.JPG",
     "static/media/header.png": "/static/media/header.c91e52ae001292b0e8ee.png",
     "index.html": "/index.html",
     "main.6dac612f.css.map": "/static/css/main.6dac612f.css.map",
-    "main.f6936f95.js.map": "/static/js/main.f6936f95.js.map"
+    "main.7d60854d.js.map": "/static/js/main.7d60854d.js.map"
   },
   "entrypoints": [
     "static/css/main.6dac612f.css",
-    "static/js/main.f6936f95.js"
+    "static/js/main.7d60854d.js"
   ]
 }
